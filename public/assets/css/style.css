@@ -1,0 +1,40 @@
+.jumbotron {
+  align-content: center !important;
+  text-align: center !important;
+}
+
+.burger-list {
+  padding: 5px;
+  margin: 5px;
+  font-size: 24px;
+}
+
+button {
+  margin-left: 20px;
+  font-size: 20px;
+  background-color: rgb(34, 162, 221);
+}
+
+.centered {
+  text-align: center;
+  align-items: center;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.create-update-form {
+  padding: 5px;
+  font-size: 24px;
+  margin: 5px;
+}
+
+.form-group {
+  font-size: 24px;
+  margin-bottom: 5px;
+}
+
+#ca {
+  font-size: 20px;
+}
